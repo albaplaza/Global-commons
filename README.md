@@ -3,7 +3,7 @@ Global Commons. Global Citizens keynote (cc) by Paul Stacey <br>
 Links shared by Paul Stacey during his conference about Creative Commons in <a href="http://futureplaces.org/">FuturePlaces</a>, Porto.
 
 <a href="https://sharedearth.com/" target="_blank">Shared Earth</a>
-<br>
+
 <a href="http://gizmodo.com/6-freeway-demolitions-that-changed-their-cities-forever-1548314937" target="_blank">6 Freeway Removals That Changed Their Cities Forever </a>
 
 <a href="http://www.wikihow.com/" target="_blank">WikiHow </a>
