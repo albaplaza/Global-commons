@@ -2,54 +2,39 @@
 Global Commons. Global Citizens keynote (cc) by Paul Stacey <br>
 Links shared by Paul Stacey during his conference about Creative Commons in <a href="http://futureplaces.org/">FuturePlaces</a>, Porto.
 
-<a href="https://sharedearth.com/">Shared Earth</a>
+<a href="https://sharedearth.com/" target="_blank">Shared Earth</a>
 <br>
-<a href="http://gizmodo.com/6-freeway-demolitions-that-changed-their-cities-forever-1548314937">6 Freeway Removals That Changed Their Cities Forever </a>
+<a href="http://gizmodo.com/6-freeway-demolitions-that-changed-their-cities-forever-1548314937" target="_blank">6 Freeway Removals That Changed Their Cities Forever </a>
 
+<a href="http://www.wikihow.com/" target="_blank">WikiHow </a>
 
-<b> WikiHow </b>
-http://www.wikihow.com/
+<a href="http://dp.la/" target="_blank">DPLA </a>
 
-<b> DPLA </b>
-http://dp.la/
+<a href="https://www.tribeofnoise.com/" target="_blank">Tribe of Noise </a>
 
-<b> Tribe of Noise </b>
-https://www.tribeofnoise.com/
+<a href="https://www.arduino.cc/en/Main/GenuinoBrand" target="_blank">Arduio / Genuino </a>
 
-<b> Arduio / Genuino </b>
-https://www.arduino.cc/en/Main/GenuinoBrand
+<a href="http://www.shareable.net/" target="_blank">Sharing Vouchers </a>
 
-<b> Sharing Vouchers </b>
-http://www.shareable.net/
+<a href="https://seats2meet.com/" target="_blank">Seats 2 Meet </a>
 
-<b> Seats 2 Meet </b>
-https://seats2meet.com/
+<a href="https://www.skillscommons.org/" target="_blank">Skills Commons </a>
 
-<b> Skills Commons </b>
-https://www.skillscommons.org/
+<a href="https://www.oercommons.org/" target="_blank">Open Educational Resources </a>
 
-<b> Open Educational Resources </b>
-https://www.oercommons.org/
+<a href="https://www.plos.org/open-access/" target="_blank">Open Access </a>
 
-<b> Open Access </b>
-https://www.plos.org/open-access/
+<a href="http://openglam.org/" target="_blank">Open Glam </a>
 
-<b> Open Glam </b>
-http://openglam.org/
+<a href="http://open.umn.edu/opentextbooks/" target="_blank">Open Textbooks </a>
 
-<b> Open Textbooks </b>
-http://open.umn.edu/opentextbooks/
+<a href="https://www.plos.org/" target="_blank">PLOS </a>
 
-<b> PLOS </b>
-https://www.plos.org/
+<a href="http://www.biomedcentral.com/" target="_blank">BioMed Central </a>
 
-<b> BioMed Central </b>
-http://www.biomedcentral.com/
+<a href="https://doaj.org/" target="_blank">DOAJ Directory of Open Access Journals </a>
 
-<b> DOAJ Directory of Open Access Journals </b>
-https://doaj.org/
+<a href="http://english.sharehub.kr/" target="_blank"> Share Hub Korea </a>
 
-<b> Share Hub Korea </b>
-http://english.sharehub.kr/
 
 
