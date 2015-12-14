@@ -1,5 +1,6 @@
 # Global-commons
 Global Commons. Global Citizens keynote (cc) by Paul Stacey
+Links shared by Paul Stacey during his conference about Creative Commons in <a href="http://futureplaces.org/">FuturePlaces</a>, Porto.
 
 <b> Shared Earth </b>
 https://sharedearth.com/
