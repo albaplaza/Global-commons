@@ -1,12 +1,11 @@
 # Global-commons
-Global Commons. Global Citizens keynote (cc) by Paul Stacey
+Global Commons. Global Citizens keynote (cc) by Paul Stacey <br>
 Links shared by Paul Stacey during his conference about Creative Commons in <a href="http://futureplaces.org/">FuturePlaces</a>, Porto.
 
-<b> Shared Earth </b>
-https://sharedearth.com/
+<a href="https://sharedearth.com/">Shared Earth</a>
+<br>
+<a href="http://gizmodo.com/6-freeway-demolitions-that-changed-their-cities-forever-1548314937">6 Freeway Removals That Changed Their Cities Forever </a>
 
-<b> 6 Freeway Removals That Changed Their Cities Forever </b>
-http://gizmodo.com/6-freeway-demolitions-that-changed-their-cities-forever-1548314937
 
 <b> WikiHow </b>
 http://www.wikihow.com/
